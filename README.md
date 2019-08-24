@@ -1,0 +1,2 @@
+# BLVendasPdvMySQL
+ Sistema de PDV
